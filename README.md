@@ -16,9 +16,9 @@ Features
 
 **Options**
 ```
-    -r outputs raw HTML using curl
-    -c outputs cleaned text using curl + textutil
-    -h shows the help page
+-r outputs raw HTML using curl
+-c outputs cleaned text using curl + textutil
+-h shows the help page
 ```
 
 **Requirements**
